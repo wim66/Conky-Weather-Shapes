@@ -2,7 +2,7 @@
 
 **Conky Weather Shapes** is a customizable and visually appealing weather widget for the Conky system monitor. This repository contains configuration scripts and settings to display weather details with unique geometric shapes, such as octagons and pentagons, using Lua scripting.
 
-![Sample pentagon-preview](pentagon-conky/preview.png) ![Sample octagon-preview](octagon-conky/preview.png)
+![Sample preview](preview.png)
 
 ## Features
 
