@@ -2,8 +2,11 @@
 
 **Conky Weather Shapes** is a customizable and visually appealing weather widget for the Conky system monitor. This repository contains configuration scripts and settings to display weather details with unique geometric shapes, such as octagons and pentagons, using Lua scripting.
 
+![Sample pentagon-preview](pentagon-conky/preview.png) ![Sample octagon-preview](octagon-conky/preview.png)
+
 ## Features
 
+- **Animated labels for weather conditions**
 - **Customizable Weather Icons**: Multiple weather icon sets with dark and light themes.
 - **Geometric Shapes**: Stylish octagon and pentagon widgets to display weather information.
 - **Localization Support**: Multi-language weather descriptions and labels.
@@ -56,7 +59,7 @@
 
 - **Weather Icons**: Choose from a variety of dark and light themes.
 - **Gradient Borders**: Define custom gradients for widget borders.
-- **Languages**: Supported languages include English (`en`), Dutch (`nl`), French (`fr`), Spanish (`es`), and German (`de`).
+- **Languages**: Supported languages include English (`en`), Dutch (`nl`), French (`fr`), Spanish (`es`), and German (`de`), you can add your own.
 - **Units**: Display temperature in Celsius or Fahrenheit.
 
 ## File Structure
@@ -70,7 +73,7 @@ Contributions are welcome! If you have ideas for new shapes, themes, or features
 
 ## License
 
-This project does not currently specify a license. Contact the repository owner for usage permissions.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
